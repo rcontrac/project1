@@ -86,7 +86,7 @@ searchBrewsInTown(searchLat, searchLong);
 
 
                 
-                }     
+                    
               } 
             })
           }
